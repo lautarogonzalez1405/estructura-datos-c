@@ -121,6 +121,7 @@ int main()
     mostrarNave(nave);
     ejecutarComando(nave);
 
+    //test
 
     return 0;
 }
