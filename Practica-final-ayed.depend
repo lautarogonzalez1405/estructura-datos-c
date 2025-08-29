@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1753474696 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"persona.h"
+	"pila.h"
+	"cola.h"
+	"estadio.h"
+	"libro.h"
+	"nave.h"
+
+1753396234 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+
+1753396234 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\nodo.h
+
+1753217211 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1753216666 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\lista.h
+	"nodo.h"
+
+1752706976 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1753474263 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1753215837 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\persona.h
+	"nodo.h"
+
+1753398111 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"cola.h"
+	"persona.h"
+
+1753220751 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\cola.h
+	"nodo.h"
+
+1753229321 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
+1753225072 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\pila.h
+	"nodo.h"
+
+1753474485 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\estadio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"cola.h"
+	"estadio.h"
+
+1753474485 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\estadio.h
+	"nodo.h"
+	"persona.h"
+
+1753474612 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"cola.h"
+	"libro.h"
+
+1753474612 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\libro.h
+	"nodo.h"
+	"persona.h"
+
+1753474675 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"nave.h"
+
+1753474675 source:c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\comando.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"pila.h"
+	"comando.h"
+
+1753399698 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\comando.h
+	"nodo.h"
+
+1753474675 c:\users\lauti\desktop\estudio\facultad\ayed\practica-final-ayed\nave.h
+	"nodo.h"
+	"comando.h"
+
